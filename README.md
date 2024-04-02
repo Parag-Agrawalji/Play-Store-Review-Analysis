@@ -20,7 +20,7 @@ The objective of this experiment is to deliver insights to understand customer d
 - [Play Store App Review Analysis](https://github.com/Parag-A/Play-Store-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_.ipynb) - Includes all functions required for clustering operations.
 
 ### Output:
-- [Google Colab](https://github.com/Parag-A/Play-Store-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_.ipynb) - All the outputs are visible in the provided colab notebook.
+- [Google Colab]() - All the outputs are visible in the provided colab notebook.
 
 ### Input Files:
   <li><b>Play Store Data.csv</b> - It contains the basic details of the app like the number of user reviews, ratings, etc.</li>
